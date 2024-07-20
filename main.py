@@ -37,9 +37,6 @@ def print_russian(text: str) -> None:
                 break
 
 
-
-
-
 if __name__ == "__main__":
     while True:
         print("Choose Language:")
